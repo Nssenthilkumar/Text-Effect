@@ -1,0 +1,1 @@
+I made a Simple Text Effect. To show the image inside the text. I used HTML and CSS to create text effect.
